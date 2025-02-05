@@ -1,0 +1,19 @@
+{
+  "name": "nvidia-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "axios-cookiejar-support": "^5.0.5",
+    "dotenv": "^16.4.7",
+    "fs": "^0.0.1-security",
+    "node-telegram-bot-api": "^0.64.0",
+    "tough-cookie": "^5.1.0",
+    "winston": "^3.17.0"
+  }
+}
