@@ -23,12 +23,6 @@ This project is a Telegram bot that checks NVIDIA GPU stock and sends notificati
 git clone https://github.com/your-user/nvidia-gpu-stock-checker.git
 cd nvidia-gpu-stock-checker
 
-_________________________________________________________
-
-2. 
-
-npm install
-__________________________________________________________
 
 Create a .env file (if it doesn't exist) in the root directory of the project and add your environment variables:
 
