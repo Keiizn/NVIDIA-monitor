@@ -49,7 +49,7 @@ The bot will then periodically check the stock of the products and send notifica
 
 # Configuration
 
-**NVIDIA API:** The NVIDIA API URL is defined in the index.js file. You can change it if needed, to monitor only 5080 or 5090 GPUs use this link: https://api.nvidia.partners/edge/product/search?locale=en-us&page=1&limit=12&gpu=RTX%205080,RTX%205090&manufacturer=NVIDIA&manufacturer_filter=NVIDIA~2&category=GPU
+**NVIDIA API:** The NVIDIA API URL is defined in the index.js file. You can change it if needed, to monitor only 5080 or 5090 GPUs use this link: [https://api.nvidia.partners/edge/product/search?locale=en-us&page=1&limit=12&gpu=RTX%205080,RTX%205090&manufacturer=NVIDIA&manufacturer_filter=NVIDIA~2&category=GPU](https://api.nvidia.partners/edge/product/search?locale=fr-fr&page=1&limit=12&gpu=RTX%205080,RTX%205090&manufacturer=NVIDIA&manufacturer_filter=NVIDIA~2&category=GPU)
 
 **Message delay:** The bot waits 2 seconds between sending each message on Telegram. You can adjust this delay in the index.js file.
 
